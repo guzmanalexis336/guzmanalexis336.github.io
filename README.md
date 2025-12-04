@@ -10,21 +10,21 @@ My GitHub page is http://github.com/guzmanalexis336
 
 * Lab 11
 
-    Lab 6, part 2 was a favorite because I was always curious about how the
+    Lab PLACEHOLDER, part 2 was a favorite because I was always curious about how the
     game Blackjack works. I was able to write functions for the first time
     that calculate the correct value of a Blackjack hand no matter how many
     Aces were dealt.
 
 * Lab 10
 
-    Lab 6, part 2 was a favorite because I was always curious about how the
+    Lab PLACEHOLDER, part 2 was a favorite because I was always curious about how the
     game Blackjack works. I was able to write functions for the first time
     that calculate the correct value of a Blackjack hand no matter how many
     Aces were dealt.
 
  * Lab 8
 
-    Lab 6, part 2 was a favorite because I was always curious about how the
+    Lab PLACEHOLDER, part 2 was a favorite because I was always curious about how the
     game Blackjack works. I was able to write functions for the first time
     that calculate the correct value of a Blackjack hand no matter how many
     Aces were dealt.
