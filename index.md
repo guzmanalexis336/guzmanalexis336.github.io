@@ -9,27 +9,14 @@ You can view my Github Page [Here](http://github.com/guzmanalexis336)
 
 ### CPSC 120
 
-* Lab 11
+* [Lab 11](https://github.com/cpsc-fall-2025/cpsc-120-lab-11-nicholas-salvador/tree/main)
 
-    Lab PLACEHOLDER, part 2 was a favorite because I was always curious about how the
-    game Blackjack works. I was able to write functions for the first time
-    that calculate the correct value of a Blackjack hand no matter how many
-    Aces were dealt.
+  Lab 11 became one of my favorites because I enjoyed learning about population density through programming, something I had never really thought about before. I also liked working with the different pieces of the program and seeing how they fit together. For example, it was interesting to watch how one function’s output became another part’s input. In this lab, I learned how to write code that works with an object-oriented class by completing the member function definitions.
 
-* Lab 10
+* [Lab 10](https://github.com/cpsc-fall-2025/cpsc-120-lab-10-alexis-kevin)
 
-    Lab PLACEHOLDER, part 2 was a favorite because I was always curious about how the
-    game Blackjack works. I was able to write functions for the first time
-    that calculate the correct value of a Blackjack hand no matter how many
-    Aces were dealt.
+    This lab was interesting because we had to work with population data for each county, which I had never done before. I realized my coding skills were weaker than my peers, which caused some frustration, but I was proud        that we ultimately finished the assignment successfully. I learned the importance of persistence and collaboration when tackling challenging coding problems.
 
- * Lab 8
+ * [Lab 8](https://github.com/cpsc-fall-2025/cpsc-120-lab-08-alexis-salvador)
 
-    Lab PLACEHOLDER, part 2 was a favorite because I was always curious about how the
-    game Blackjack works. I was able to write functions for the first time
-    that calculate the correct value of a Blackjack hand no matter how many
-    Aces were dealt.
-
-
-
-
+    Learning how to implement a real-world algorithm used in sports scoring was quite interesting to me. Not only I learned how to manipulate vectors, I also learned how to find the minimum and maximum values and calculate an average while ignoring outliers. I struggled a lot with the linting process, which challenged my resilience and reinforced the importance of writing code that is clear, organized, and easy to maintain.
