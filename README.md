@@ -4,7 +4,7 @@ This is my home page! My name is Alexis Guzman and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/guzmanalexis336
+My GitHub page is (http://github.com/guzmanalexis336)
 
 ### CPSC 120
 
