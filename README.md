@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Alexis Guzman and this is written in github, this text will be removed as soon i figure out markdown; and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering.
+This is my home page! My name is Alexis Guzman and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering.
 
 ## Computer Science Projects
 
